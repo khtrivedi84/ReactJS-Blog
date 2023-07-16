@@ -13,6 +13,7 @@ To clone this repository, run following command in your terminal:
 ```bash
   git https://github.com/kishan12345/ReactJS-Blog.git
 ```
+This project is hosted on Google Cloud and the database is in MongoDB. For security purpose, the credentials are removed.
 
 ## Screenshots
 
