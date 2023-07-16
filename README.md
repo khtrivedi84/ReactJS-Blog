@@ -17,3 +17,6 @@ This project is hosted on Google Cloud and the database is in MongoDB. For secur
 
 ## Screenshots
 
+Home page
+
+![App Screenshot](https://i.imgur.com/U1D1O5R.png)
