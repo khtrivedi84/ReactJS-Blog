@@ -20,3 +20,21 @@ This project is hosted on Google Cloud and the database is in MongoDB. For secur
 Home page
 
 ![App Screenshot](https://i.imgur.com/U1D1O5R.png)
+
+Articles page
+
+![App Screenshot](https://i.imgur.com/0bblMNd.png)
+
+Login page
+
+![App Screenshot](https://i.imgur.com/Rvle5Ue.png)
+
+Articles page
+
+![App Screenshot](https://i.imgur.com/E9Y6Yp0.png)
+
+Sign-up page
+
+![App Screenshot](https://i.imgur.com/GzXUjJL.png)
+
+
